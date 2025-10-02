@@ -1,0 +1,18 @@
+# Last.fm credentials (REQUIRED)
+username=your_lastfm_username
+password=your_lastfm_password
+
+# Last.fm Apikey (REQUIRED)
+apikey=your_apikey
+secret=your_apisecret
+
+# Scrobble threshold - song must play for 240 seconds OR 50% duration
+scrobble_threshold=240
+scrobble_percentage=0.5
+
+# Enable/disable different source types
+enable_radio=yes
+enable_local=yes
+
+# Try to parse "Artist - Title" patterns from ICY metadata
+parse_patterns=yes
